@@ -6,8 +6,8 @@
 
 ### Original Problem Links are:
 
-##### A: 
-##### B: 
-##### C: 
-##### D: 
-##### E: 
+##### A: https://codeforces.com/contest/1372/problem/A
+##### B: https://codeforces.com/contest/1392/problem/A
+##### C: https://codeforces.com/contest/1392/problem/C
+##### D: https://codeforces.com/contest/1409/problem/C
+##### E: https://codeforces.com/contest/1373/problem/D
